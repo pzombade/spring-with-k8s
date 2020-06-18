@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.pzombade.k8s</groupId>
-	<artifactId>helm</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>spring-with-k8s</artifactId>
+	<version>1.0</version>
 	<name>k8s-helm</name>
 	<description>Demo project for Spring Boot with heml</description>
 
