@@ -1,13 +1,9 @@
 package com.pzombade.k8s.helm;
 
-import com.sun.glass.ui.Application;
-import org.apache.catalina.core.ApplicationContext;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.GetMapping;
 
 @SpringBootApplication
 public class K8sHelmApplication implements CommandLineRunner {
